@@ -7,6 +7,11 @@
     height: 100px;
     
 }
+.img1{
+    width: 100px;
+    position: static
+
+}
 h2{
     color: goldenrod;
     font-size: 30px;
